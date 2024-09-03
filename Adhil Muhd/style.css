@@ -1,0 +1,30 @@
+h1,h2,h3,h4,h5{ text-align: center;
+ text-emphasis-color: yellow;
+font-style: italic;
+}
+body{background-color: rgb(252, 251, 249);}
+p{background-image: url("https://uoc.ac.in/images/overview.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+margin: 40px;
+background-position: center;
+padding:30px;
+color: rgb(240, 142, 14);}
+table{ background-color: cornflowerblue;
+align-items: center;
+padding: 20px;
+margin: 50 px;}
+li{list-style: disc;}
+img{width: 1400px;
+height: 700px;
+align-items: center;}
+table,th,tr{
+    border: 3px solid;
+    width: 1400px;
+    height: 80px;
+    margin: 20px;
+}
+.head2{ background-color: darkorange;
+margin: 40px ;
+padding: 20px;
+border-radius: 50px;}
